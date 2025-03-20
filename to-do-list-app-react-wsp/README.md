@@ -1,4 +1,4 @@
-# To Do List App React (V1)
+# To Do List App React
 
 To Do List App React JS(Add, Edit, Update, Delete, Toggle Tasks)
 
